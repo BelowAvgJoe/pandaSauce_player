@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/alchamist.md",
-                "mode": "source",
+                "file": "apps/markdown.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/alchamist.md",
+                "file": "apps/markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "classes/alchamist.md",
+                "file": "apps/markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "classes/alchamist.md"
+                "file": "apps/markdown.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d0560232fad241f5",
   "lastOpenFiles": [
+    "classes/alchamist.md",
     "apps/list.md",
     "README.md"
   ]
