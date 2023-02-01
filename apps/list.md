@@ -1,5 +1,17 @@
 # Applications to get started with
 
+## Foundry
+
+### Description
+- Foundry is a web based virtual table top application.
+- It is hosted on my local network and can be accessed from anywhere.
+- This is the tool we will use to play Pathfinder
+
+### Link
+[Foundry](http://panadasauce.evilguyz.com)
+
+---
+
 ## Obsidian
 
 ### Description
