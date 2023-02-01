@@ -2,14 +2,20 @@
 
 The Alchemist has four Field Researches that each help you find the AWESOME in a unique way. They cover a lot of different areas. Consumables are one of the strongest class of items in the game and the Alchemist goes all in. Let's break them down
 
+---
+
 ### The Bomber
+
 Do you want the ability to make a million bombs and throw them at people? Look no further than the Bomber. Need more AWESOME bomb facts to get you hyped?
 
 Bombs still do their splash damage on a fail. Wouldn’t it be a shame if Balor had 20 weakness to Cold damage? Bombs some of the highest Persistent Damage in the game and Persistent Damage of different types stack. Persistent Damage from Bombs also doubles on Critical Hits. Enjoy watching the smile fade from your GM’s face when their monsters melt.
 
 What else is there to say? Bombs are AWESOME.
 
+---
+
 ### The Chirurgeon
+
 This Research Field just got a buff to make it more AWESOME. You are the Ultimate Doctor.
 
 You get a TON of free Healing items every day. There is never a time you’ll be walking into a fight without a bunch of healing elixirs in hand. Antidotes are one of the most commonly overlooked AWESOME items in all of Pathfinder. The Level 1 Antidote doesn’t get outclassed by Runes until LEVEL FOURTEEN and they last for SIX HOURS. You know what’s better than being poisoned? Not being poisoned. Give this to your party and watch the poison effects fade away.
@@ -18,7 +24,10 @@ If that wasn’t enough, you get to just completely ignore an entire skill. Medi
 
 At Level 7, you get free, unlimited healing items. The silly Champion can only use Lay on Hands on one person at a time here and then they have to Refocus. You’ve got free, unlimited healing items for the whole party AND can Treat Wounds at the SAME TIME. Healing the entire party is AWESOME for the Chirurgeon.
 
+---
+
 ### The Mutagenist
+
 The Mutagenist is AWESOME. While all the rest of the boring Research Fields are healing and staying back, you’re growing a mouth full of jaws and charging headlong at the enemy.
 
 Oh, wait what? That’s just the stereotype and Mutagenists can do a TON more stuff than that. AWESOME.
@@ -41,7 +50,10 @@ The Silvertongue Mutagen is my fave. In Pathfinder, an attitude only decreases i
 
 And that’s just the base Mutagens. This doesn’t even go into the Drakeheart, Warblood, or any of the others. Not to mention there are 200+ Alchemical items coming in the next book. I bet more than a few of them will be Mutagens.
 
+---
+
 ### The Toxicologist
+
 This is one of the only non-Core things I decided to include because I think it's AWESOME. (I love Alchemists, okay?)
 
 Poisons just do a TON of damage. They can apply status effects and you make them plentiful.
